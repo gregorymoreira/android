@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppTrabalho2</string>
+    <string name="exibeListView">Exibe ListView</string>
+    <string name="exibeGridView">Exibe GridView</string>
+</resources>
